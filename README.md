@@ -3,7 +3,10 @@
 Welcome to CodeKul
 ==================
 
-> git clone https://github.com/CodeKul/java-brushup-morning-9-11-8-nov-16.git
+```
+> First Clone repo using this command **git clone https://github.com/CodeKul/java-brushup-morning-9-11-8-nov-16.git**
+> 
+```
 
 Gradle Commands
 ===============
