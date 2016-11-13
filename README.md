@@ -1,16 +1,27 @@
-cloning
 
-git clone https://github.com/CodeKul/java-brushup-morning-9-11-8-nov-16.git
 
-gradle commands
+Welcome to CodeKul
+==================
 
-downloading all dependencies
+> git clone https://github.com/CodeKul/java-brushup-morning-9-11-8-nov-16.git
+
+Gradle Commands
+===============
+
+### downloading all dependencies
+
+```
 ./gradlew buildNeeded
 ./gradlew build
+```
 
-Running root module
+### Running root module
+```
 ./gradlew codeRun
+```
 
-Running sub module
+### Running sub module
+```
 ./gradlew :demo-mod:codeRun
+```
 
