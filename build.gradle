@@ -28,7 +28,7 @@ dependencies {
     compile 'org.springframework.boot:spring-boot:1.4.2.RELEASE'
 
     compile project(':demo-mod')
-    compile project(':aaa')
+    //compile project(':aaa')
 }
 
 fatJar {
