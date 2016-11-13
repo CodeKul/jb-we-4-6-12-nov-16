@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa/aaa.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa/aaa.iml" group="aaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa/aaa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa/aaa_main.iml" group="aaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa/aaa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa/aaa_test.iml" group="aaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod.iml" group="demo-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod_main.iml" group="demo-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-mod/demo-mod_test.iml" group="demo-mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jb-weekend-4-7.iml" filepath="$PROJECT_DIR$/.idea/modules/jb-weekend-4-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jb-weekend-4-7_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jb-weekend-4-7_main.iml" group="jb-weekend-4-7" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jb-weekend-4-7_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jb-weekend-4-7_test.iml" group="jb-weekend-4-7" />
+    </modules>
+  </component>
+</project>

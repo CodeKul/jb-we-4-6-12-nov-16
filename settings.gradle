@@ -1,0 +1,4 @@
+rootProject.name = 'jb-weekend-4-7'
+include 'demo-mod'
+include 'aaa'
+
