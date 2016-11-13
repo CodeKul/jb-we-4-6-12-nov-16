@@ -19,3 +19,8 @@ jar {
         attributes 'Main-Class': 'com.demo.module.Main'
     }
 }
+
+task codeRun(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main = "com.demo.module.Main"
+}

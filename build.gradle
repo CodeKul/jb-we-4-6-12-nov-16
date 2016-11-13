@@ -36,3 +36,10 @@ fatJar {
         attributes 'Main-Class': 'com.codekul.jb.Main'
     }
 }
+
+task codeRun(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main = "com.codekul.jb.Main"
+}
+
+
