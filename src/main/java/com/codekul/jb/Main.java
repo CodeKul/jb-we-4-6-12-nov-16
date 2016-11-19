@@ -13,5 +13,8 @@ public class Main {
 
         Abc abc = new Abc();
         abc.abc();
+
+        Starter starter = new Starter();
+        starter.inheritance();
     }
 }
