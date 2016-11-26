@@ -1,8 +1,11 @@
 package com.codekul.jb;
 
+import com.codekul.jb.abstractclasses.Animal;
+import com.codekul.jb.abstractclasses.Tiger;
 import com.codekul.jb.classesandobjects.Car;
 import com.codekul.jb.inheritance.Device;
 import com.codekul.jb.inheritance.Mobile;
+import com.codekul.jb.interfaces.Drone;
 
 import java.util.Date;
 
@@ -39,16 +42,29 @@ public class Starter {
          //Mobile mobileDevice = new Device();
     }
 
-    public void abstractClasses(){
+    public void abstractClasses() {
+
+        Animal animal = new Tiger();
+        animal.walk();
+
+        Tiger tiger = new Tiger();
+        tiger.walk();
     }
 
     public void interfaces() {
+
+        Drone drone = new Drone();
+        drone.fly();
+        drone.getBatteryLevel();
+        drone.locate();
     }
 
     public void innerClasses() {
+
     }
 
     public void exceptionHandling() {
+
     }
 
     public void threading(){
