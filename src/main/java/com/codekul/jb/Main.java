@@ -11,6 +11,6 @@ public class Main {
         System.out.println("Hello In Main");
 
         Starter starter = new Starter();
-        starter.interfaces();
+        starter.generics();
     }
 }
